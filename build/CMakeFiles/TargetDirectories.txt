@@ -1,0 +1,6 @@
+C:/DEV/PrimeChecker_14/build/CMakeFiles/prime_checker.dir
+C:/DEV/PrimeChecker_14/build/CMakeFiles/prime_checker_app.dir
+C:/DEV/PrimeChecker_14/build/CMakeFiles/prime_checker_test.dir
+C:/DEV/PrimeChecker_14/build/CMakeFiles/test.dir
+C:/DEV/PrimeChecker_14/build/CMakeFiles/edit_cache.dir
+C:/DEV/PrimeChecker_14/build/CMakeFiles/rebuild_cache.dir
