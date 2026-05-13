@@ -1,2 +1,2 @@
-PrimeCheckerTest 2 0.0114806
+PrimeCheckerTest 1 0.0272754
 ---

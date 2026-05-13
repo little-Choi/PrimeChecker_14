@@ -15,3 +15,8 @@ enable_testing()
 add_executable(prime_checker_test tests/PrimeCheckerTest.cpp)
 target_link_libraries(prime_checker_test prime_checker)
 add_test(NAME PrimeCheckerTest COMMAND prime_checker_test)
+
+if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
+    target_compile_options(prime_checker_test PRIVATE --coverage)
+    target_link_options(prime_checker_test PRIVATE --coverage)
+endif()
